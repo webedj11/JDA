@@ -20,7 +20,7 @@ class STParameter;
  *          |           |
  *  left(idx = 2*i)     right(idx = 2*i + 1)
  */
-class Cart {
+class Cart { /*I would comment what each class does*/
 public:
   /*!
    * \brief default constructor, with parameters from config
